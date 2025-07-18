@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "securlybypasserr",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f0e8366a-89e6-4b7d-884c-977dd9752261",
+      "database_name": "securlydodge"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
