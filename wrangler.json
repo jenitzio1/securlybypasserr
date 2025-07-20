@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "securlybypasserr",
+  "name": "hop-7",
   "upload_source_maps": true,
   "d1_databases": [
     {
